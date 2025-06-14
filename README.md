@@ -4,6 +4,8 @@ An intelligent chatbot for e-commerce applications, built using the **Microsoft 
 
 This bot demonstrates how conversational AI can enhance the shopping experience through natural language interactions.
 
+![image](https://github.com/user-attachments/assets/dec18bc5-45bf-4861-a157-933e681f0716)
+
 ---
 
 ## 🔧 Project Updates
